@@ -1,5 +1,6 @@
 const lastdate = "2 Oct 2022";
 
+
 function timer()
 {
   const newYearDate = new Date(lastdate);
