@@ -1,4 +1,4 @@
-const lastdate = "2 Oct 2021";
+const lastdate = "2 Oct 2022";
 
 function timer()
 {
